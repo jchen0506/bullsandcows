@@ -39,4 +39,9 @@ And what about bulls?
 -	A bull is a letter in your guess that is not only a cow, as in, not only in the word you’re solving for; it’s in the same position as the word you’re solving for as well!
 	So, based on the number of cows and bulls you receive from your sequential guesses, you can use your brain to come up with a better guess for your next guess. *Again, if you run out of guesses, you lose! 
 
+## Authors
 
+- **Jing Chen** - Main menu, input validation, combinng codes for the team
+- **Jinghao Jie** - Word generating, hints, combing codes for the team
+- **Hao Wu** - Check bulls and cows
+- **Garret Fox** - Winning and losing sound
